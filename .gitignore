@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+.vscode/
+.env
+__pycache__/
+.DS_Store
