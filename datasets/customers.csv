@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,gender,country,signup_date,email
+C001,Rahul,Sharma,Male,India,2025-01-15,rahul.sharma@email.com
+C002,Priya,Verma,Female,India,2025-02-20,priya.verma@email.com
+C003,Amit,Singh,Male,India,2025-03-10,amit.singh@email.com
+C004,Neha,Gupta,Female,India,2025-03-25,neha.gupta@email.com
+C005,Arjun,Patel,Male,India,2025-04-05,arjun.patel@email.com
+C006,Sophia,Wilson,Female,USA,2025-04-18,sophia.wilson@email.com
+C007,Daniel,Brown,Male,UK,2025-05-12,daniel.brown@email.com
+C008,Emma,Johnson,Female,USA,2025-06-08,emma.johnson@email.com
+C009,Oliver,Smith,Male,UK,2025-07-14,oliver.smith@email.com
+C010,Aisha,Khan,Female,UAE,2025-08-22,aisha.khan@email.com
+C011,Vikram,Mehta,Male,India,2025-09-03,vikram.mehta@email.com
+C012,Ananya,Roy,Female,India,2025-10-11,ananya.roy@email.com
+C013,Michael,Davis,Male,USA,2025-11-02,michael.davis@email.com
+C014,Emily,Clark,Female,UK,2025-11-18,emily.clark@email.com
+C015,Rohan,Malhotra,Male,India,2025-12-05,rohan.malhotra@email.com
