@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price
+P001,Laptop Pro,Electronics,85000
+P002,Wireless Mouse,Electronics,1500
+P003,Mechanical Keyboard,Electronics,4500
+P004,Office Chair,Furniture,12000
+P005,Standing Desk,Furniture,25000
+P006,USB-C Hub,Accessories,3000
+P007,Monitor 24 inch,Electronics,15000
+P008,Monitor 27 inch,Electronics,22000
+P009,Desk Lamp,Accessories,2500
+P010,Webcam HD,Accessories,5000
+P011,Notebook Pack,Stationery,800
+P012,Premium Pen Set,Stationery,1200
